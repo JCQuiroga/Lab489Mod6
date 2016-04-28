@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebControls.FieldControls.CONTROLTEMPLATES {
+namespace Lab489Mod6.CONTROLTEMPLATES {
     
     
-    public partial class Contoso {
+    public partial class ProductCodeTemplate {
         
         /// <summary>
         /// ProductCodeRenderingTemplate control.
