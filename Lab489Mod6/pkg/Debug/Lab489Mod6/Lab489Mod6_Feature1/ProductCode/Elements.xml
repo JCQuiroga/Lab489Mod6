@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{faae0d0b-579f-4043-a8bd-b4e5f35c0db8}"
+       Name="ProductCode"
+       DisplayName="Product Code"
+       Type="Text"
+       Required="TRUE"
+       Group="Publishing Columns">
+  </Field>
+</Elements>

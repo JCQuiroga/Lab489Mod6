@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d206a82e-3432-41ae-86f9-cd38e6242f05" Scope="Web" Title="Lab489Mod6 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="ProductCode\Elements.xml" />
+    <ElementManifest Location="PaginaProducto\Elements.xml" />
+    <ElementManifest Location="ProductArticleLayout\Elements.xml" />
+    <ElementFile Location="ProductArticleLayout\Sample.txt" />
+    <ElementFile Location="ProductArticleLayout\ProductArticleLayout.aspx" />
+  </ElementManifests>
+</Feature>
